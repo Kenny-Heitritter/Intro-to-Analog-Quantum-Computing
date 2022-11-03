@@ -2,5 +2,5 @@
 A brief introduction to analog quantum computing using AWS Braket
 
 Steps to get going:
- - Setup software for analog hamiltonian simulation by reading the "Getting_Started.txt" file.
+ - In a terminal, run `pip install amazon-braket-sdk`
  - Run and modify code in the jupyter-notebooks available in the "Notebooks" folder
