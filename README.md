@@ -2,6 +2,9 @@
 A brief introduction to analog quantum computing using AWS Braket
 
 Steps to get going:
- - If you already have the amazon-braket-sdk installed then update by running `pip install amazon-braket-sdk --upgrade --upgrade-strategy eager`. Otherwise, run `pip install amazon-braket-sdk`.
+ - Run the following in a terminal:
+    - `conda create -n ahs pip`
+    - `conda activate ahs`
+    - `pip install -r requirements.txt`
  - Start with intro1.ipynb available in the "Notebooks" folder
  - Proceed through other intro notebooks...
