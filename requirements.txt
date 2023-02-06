@@ -1,5 +1,6 @@
-amazon-braket-sdk==1.33.0.post0
+amazon-braket-sdk
 matplotlib
 numpy
 jupyter
 jupyterlab
+rise
