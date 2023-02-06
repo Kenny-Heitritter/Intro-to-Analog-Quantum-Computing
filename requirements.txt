@@ -4,3 +4,4 @@ numpy
 jupyter
 jupyterlab
 rise
+boto3
